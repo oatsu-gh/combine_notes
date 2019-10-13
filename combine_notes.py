@@ -6,10 +6,7 @@
 import sys
 from pprint import pprint
 
-# from pysnooper import snoop
-
-
-TEST = True
+TEST = False
 
 
 def read_txt(filepath):

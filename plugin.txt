@@ -1,3 +1,0 @@
-name=‰¹’ö‚»‚Ì‚Ü‚Ü‚ÅŒ‹‡
-execute=combine_notes.py
-shell=use
